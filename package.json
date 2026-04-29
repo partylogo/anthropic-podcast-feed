@@ -1,0 +1,14 @@
+{
+  "name": "anthropic-podcast-feed",
+  "version": "0.1.0",
+  "description": "Daily scan of AI podcast RSS feeds, rule-based detection of Anthropic employee guests. Output consumed by anthropic-twitter-digest skill.",
+  "private": true,
+  "scripts": {
+    "scan": "node scripts/scan.js",
+    "filter": "node scripts/filter.js --since 30d",
+    "all": "npm run scan && npm run filter"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

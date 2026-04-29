@@ -1,0 +1,12 @@
+[
+  { "name": "Lenny's Podcast", "url": "https://api.substack.com/feed/podcast/10845.rss" },
+  { "name": "Latent Space", "url": "https://api.substack.com/feed/podcast/1084089.rss" },
+  { "name": "No Priors", "url": "https://feeds.transistor.fm/no-priors" },
+  { "name": "Dwarkesh", "url": "https://api.substack.com/feed/podcast/1153768.rss" },
+  { "name": "Lex Fridman", "url": "https://lexfridman.com/feed/podcast/" },
+  { "name": "a16z", "url": "https://feeds.simplecast.com/JGE3yC0V" },
+  { "name": "Cognitive Revolution", "url": "https://feeds.transistor.fm/the-cognitive-revolution-how-ai-changes-everything" },
+  { "name": "TWIML AI", "url": "https://feeds.megaphone.fm/MLN2155636147" },
+  { "name": "20VC", "url": "https://feeds.megaphone.fm/twentyvc" },
+  { "name": "Acquired", "url": "https://feeds.transistor.fm/acquired" }
+]
